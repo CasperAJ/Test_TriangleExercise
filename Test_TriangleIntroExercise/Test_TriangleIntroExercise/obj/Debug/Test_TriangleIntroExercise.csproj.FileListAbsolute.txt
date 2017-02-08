@@ -1,0 +1,9 @@
+h:\documents\visual studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\bin\Debug\Test_TriangleIntroExercise.exe.config
+h:\documents\visual studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\bin\Debug\Test_TriangleIntroExercise.exe
+h:\documents\visual studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\bin\Debug\Test_TriangleIntroExercise.pdb
+h:\documents\visual studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\obj\Debug\Test_TriangleIntroExercise.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\obj\Debug\Test_TriangleIntroExercise.exe
+h:\documents\visual studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\obj\Debug\Test_TriangleIntroExercise.pdb
+C:\Users\casper\Documents\Visual Studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\Test_TriangleIntroExercise\bin\Debug\Test_TriangleIntroExercise.exe.config
+C:\Users\casper\Documents\Visual Studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\Test_TriangleIntroExercise\obj\Debug\Test_TriangleIntroExercise.exe
+C:\Users\casper\Documents\Visual Studio 2015\Projects\Test_TriangleIntroExercise\Test_TriangleIntroExercise\Test_TriangleIntroExercise\obj\Debug\Test_TriangleIntroExercise.pdb
